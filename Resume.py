@@ -18,7 +18,7 @@ st.markdown("""
             font-size: 50px;
             font-weight: bold;
             text-align: center;
-            color: #2E86C1;
+            color: #fffff;
             padding: 20px;
             background: linear-gradient(90deg, #2E86C1, #3498DB);
             border-radius: 10px;
